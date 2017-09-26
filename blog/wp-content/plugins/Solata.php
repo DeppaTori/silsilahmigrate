@@ -38,7 +38,7 @@ function solata_pam_init(){
         $url = "http://localhost:50/keluargaku/silsilah/index.php/admin/aksesdariwp/";
          //$url = "http://keluargaku-rotimisko.rhcloud.com/silsilah/index.php/admin/aksesdariwp/";
         $url = $url."".$code;
-        echo "[[link] Klik di <a href='".$url."' >sini</a> untuk akses ke halaman admin silsilah keluarga";
+        echo "Klik di <a href='".$url."' >sini</a> untuk akses ke halaman admin silsilah keluarga";
         
         
         
